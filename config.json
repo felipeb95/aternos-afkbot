@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"balbss.aternos.me:30567",
+	"port": "30567",
+	"name": "VOLORRENACA"
 }
